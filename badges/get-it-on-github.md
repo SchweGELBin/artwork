@@ -7,7 +7,7 @@ As there isn't an official badge, I created my own version. I combined following
 - [Top LTR Template Badge](https://gitlab.com/fdroid/artwork/-/raw/master/badge/src/top_ltr.svg) from **F-Droid**'s [artwork](https://gitlab.com/fdroid/artwork/-/tree/master/badge)
 
 ## Preview
-![./get-it-on.png](./get-it-on.png)
+![./get-it-on-github.png](./get-it-on-github.png)
 
 ## Usage
 ### Markdown
