@@ -3,5 +3,5 @@
 Repository to save my artworks
 
 ## LICENSE
-- Read the [credits.toml] file
+- Read the [credits.toml](./credits.toml) file
 - NOT specified files are licensed under [this license](./LICENSE)
