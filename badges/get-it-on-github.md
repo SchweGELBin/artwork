@@ -11,4 +11,4 @@ As there isn't an official badge, I created my own version. I combined following
 
 ## Usage
 ### Markdown
-```[<img src="https://raw.githubusercontent.com/SchweGELBin/Get-It-On/refs/heads/main/get-it-on.png" height="60">](https://github.com/SchweGELBin/Get-It-On/blob/main/get-it-on.png)```
+```[<img src="https://raw.githubusercontent.com/SchweGELBin/artwork/refs/heads/main/badges/get-it-on-github.png" height="60">](https://github.com/SchweGELBin/artwork/blob/main/badges/get-it-on-github.png)```
